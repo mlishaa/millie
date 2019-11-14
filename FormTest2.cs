@@ -165,5 +165,20 @@ namespace session6
             }
             //MessageBox.Show(nodeRoot.Nodes.Count.ToString());
         }
+        
+          private void button3_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog dialog = new OpenFileDialog();
+            
+            dialog.Filter = "Text|*.txt|All|*.*";
+            DialogResult result = dialog.ShowDialog();
+
+
+            if (result == DialogResult.OK)
+            {
+                string fileName = dialog.FileName;
+                MessageBox.Show(fileName);
+            }
+        }
     }
 }
