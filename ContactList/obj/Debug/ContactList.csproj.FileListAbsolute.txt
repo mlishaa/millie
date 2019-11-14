@@ -1,0 +1,9 @@
+C:\Users\mac\source\repos\ContactList\ContactList\bin\Debug\ContactList.exe.config
+C:\Users\mac\source\repos\ContactList\ContactList\bin\Debug\ContactList.exe
+C:\Users\mac\source\repos\ContactList\ContactList\bin\Debug\ContactList.pdb
+C:\Users\mac\source\repos\ContactList\ContactList\obj\Debug\ContactList.csprojAssemblyReference.cache
+C:\Users\mac\source\repos\ContactList\ContactList\obj\Debug\ContactList.Form1.resources
+C:\Users\mac\source\repos\ContactList\ContactList\obj\Debug\ContactList.Properties.Resources.resources
+C:\Users\mac\source\repos\ContactList\ContactList\obj\Debug\ContactList.csproj.GenerateResource.cache
+C:\Users\mac\source\repos\ContactList\ContactList\obj\Debug\ContactList.exe
+C:\Users\mac\source\repos\ContactList\ContactList\obj\Debug\ContactList.pdb
